@@ -1,0 +1,21 @@
+fn main(){
+	while true{
+		let x = 4;
+		if 2==2 {
+		let x = 0;
+		}
+	}
+	if 2==2{
+		if true {
+			 let x = 2;
+			 let w = 3;
+		}
+		else {
+			println!("{}", x);
+			read_line(&yea);
+		}
+	}
+}
+
+
+
